@@ -1,0 +1,1 @@
+print([f"{x} even" for x in [11,12,10] if x%2==0])
